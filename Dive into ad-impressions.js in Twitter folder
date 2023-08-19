@@ -1,0 +1,11 @@
+My inital goal: Clean my Mac, until it has around 7 GB for fully download War Thunder.
+While I have about 40 MB in my downloaded Twitter folder, I started to wonder,
+
+What is data/ad-impressions.js?
+What does it do?
+How does it look like?
+What is its structure?
+
+1. Search: adsUserData Result: 48 matches
+Ahha!
+advertiserInfo, matchedTargetingCriteria: { targetingType & targetingValue }
